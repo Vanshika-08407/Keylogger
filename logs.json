@@ -1,0 +1,233 @@
+[
+    {
+        "Pressed": "'h'"
+    },
+    {
+        "Held": "'h'"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Pressed": "'e'"
+    },
+    {
+        "Held": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "'l'"
+    },
+    {
+        "Held": "'l'"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "'l'"
+    },
+    {
+        "Held": "'l'"
+    },
+    {
+        "Released": "'l'"
+    },
+    {
+        "Pressed": "'o'"
+    },
+    {
+        "Held": "'o'"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "Key.enter"
+    },
+    {
+        "Held": "Key.enter"
+    },
+    {
+        "Released": "Key.enter"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.caps_lock"
+    },
+    {
+        "Held": "Key.caps_lock"
+    },
+    {
+        "Released": "Key.caps_lock"
+    },
+    {
+        "Pressed": "'v'"
+    },
+    {
+        "Held": "'v'"
+    },
+    {
+        "Released": "'v'"
+    },
+    {
+        "Pressed": "'o'"
+    },
+    {
+        "Held": "'o'"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "'i'"
+    },
+    {
+        "Held": "'i'"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Pressed": "'s'"
+    },
+    {
+        "Held": "'s'"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Pressed": "Key.caps_lock"
+    },
+    {
+        "Held": "Key.caps_lock"
+    },
+    {
+        "Released": "Key.caps_lock"
+    },
+    {
+        "Pressed": "Key.shift"
+    },
+    {
+        "Held": "Key.shift"
+    },
+    {
+        "Held": "'_'"
+    },
+    {
+        "Released": "Key.shift"
+    },
+    {
+        "Released": "'-'"
+    },
+    {
+        "Pressed": "'i'"
+    },
+    {
+        "Held": "'i'"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Pressed": "'n'"
+    },
+    {
+        "Held": "'n'"
+    },
+    {
+        "Released": "'n'"
+    },
+    {
+        "Pressed": "'t'"
+    },
+    {
+        "Held": "'t'"
+    },
+    {
+        "Released": "'t'"
+    },
+    {
+        "Pressed": "'e'"
+    },
+    {
+        "Held": "'e'"
+    },
+    {
+        "Released": "'e'"
+    },
+    {
+        "Pressed": "'r'"
+    },
+    {
+        "Held": "'r'"
+    },
+    {
+        "Released": "'r'"
+    },
+    {
+        "Pressed": "'n'"
+    },
+    {
+        "Held": "'n'"
+    },
+    {
+        "Released": "'n'"
+    },
+    {
+        "Pressed": "'s'"
+    },
+    {
+        "Held": "'s'"
+    },
+    {
+        "Released": "'s'"
+    },
+    {
+        "Pressed": "'h'"
+    },
+    {
+        "Held": "'h'"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Pressed": "'i'"
+    },
+    {
+        "Held": "'i'"
+    },
+    {
+        "Released": "'i'"
+    },
+    {
+        "Pressed": "'p'"
+    },
+    {
+        "Held": "'p'"
+    },
+    {
+        "Released": "'p'"
+    },
+    {
+        "Pressed": "Key.enter"
+    },
+    {
+        "Held": "Key.enter"
+    },
+    {
+        "Released": "Key.enter"
+    }
+]
